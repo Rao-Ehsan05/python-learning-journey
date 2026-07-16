@@ -20,5 +20,8 @@
 
 ### Topics Covered
 -List
+
 -Tuples
+
 -Practice programs
+
