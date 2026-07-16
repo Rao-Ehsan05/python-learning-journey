@@ -15,3 +15,10 @@
 - Comparison Operators
 - Nested If
 - Practice Programs
+
+- ## Day 3
+
+### Topics Covered
+-List
+-Tuples
+-Practice programs
