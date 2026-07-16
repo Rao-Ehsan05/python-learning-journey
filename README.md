@@ -19,9 +19,9 @@
 - ## Day 3
 
 ### Topics Covered
--List
+  -List
 
--Tuples
+  -Tuples
 
--Practice programs
+  -Practice programs
 
